@@ -48,11 +48,17 @@ Risk (Value target - Good or Bad Risk)
 
 ![](images/screen3.PNG/)
 
-- Scatter Plot of Credit Amount & Duration
+- Scatter Plot: Credit Amount & Duration and Credit Amount & Age are plotted 
 
 ![](images/screen4.PNG/)
 
-- Scatter Plot of Credit Amount & Duration
-
 ![](images/screen5.PNG/)
 
+- Pair Comparisons: These comparisons are made for Sex, Job, Saving_Accounts, Checking_Account and Purpose
+
+![](images/screen8.PNG/)
+![](images/screen9.PNG/)
+![](images/screen10.PNG/)
+![](images/screen11.PNG/)
+![](images/screen12.PNG/)
+![](images/screen13.PNG/)
