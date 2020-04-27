@@ -67,3 +67,10 @@ Risk (Value target - Good or Bad Risk)
 ![](images/screen12.PNG/)
 
 ![](images/screen13.PNG/)
+
+# 5- Model Selection & Evaluation Metrics
+
+Logistic Regression, Support Vector Machine, Random Forest and Naive Bayes algorithms are trained. Naive Bayes has the best result among them. The evaluation metrics of the model is the recall rate because for credit scoring, TP and FN values are more important than FP
+
+![](images/screen7.PNG/)
+
