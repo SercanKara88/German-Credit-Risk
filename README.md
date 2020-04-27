@@ -52,7 +52,7 @@ Risk (Value target - Good or Bad Risk)
 
 ![](images/screen4.PNG/)
 
-- # Scatter Plot of Credit Amount & Duration
+- Scatter Plot of Credit Amount & Duration
 
 ![](images/screen5.PNG/)
 
