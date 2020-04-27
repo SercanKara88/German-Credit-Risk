@@ -57,8 +57,13 @@ Risk (Value target - Good or Bad Risk)
 - Pair Comparisons: These comparisons are made for Sex, Job, Saving_Accounts, Checking_Account and Purpose
 
 ![](images/screen8.PNG/)
+
 ![](images/screen9.PNG/)
+
 ![](images/screen10.PNG/)
+
 ![](images/screen11.PNG/)
+
 ![](images/screen12.PNG/)
+
 ![](images/screen13.PNG/)
