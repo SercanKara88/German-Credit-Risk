@@ -2,7 +2,7 @@
 
 # 1- Introduction
 
-German credit risk data has 1000 observations with 20 variables. The target variable is binary. 
+German credit risk data has 1000 observations with 20 variables. The target variable is binary. The purpose of this model is to preditct customers risk based on futures below. The analyst used 4 different classification algorithms.
 
 Age (numeric)
 
@@ -70,7 +70,7 @@ Risk (Value target - Good or Bad Risk)
 
 # 5- Model Selection & Evaluation Metrics
 
-Logistic Regression, Support Vector Machine, Random Forest and Naive Bayes algorithms are trained. Naive Bayes has the best result among them. The evaluation metrics of the model is the recall rate because for credit scoring, TP and FN values are more important than FP
+Logistic Regression, Support Vector Machine, Random Forest and Naive Bayes algorithms are trained. Naive Bayes has the best result among them. The evaluation metrics of the model is the recall rate because for credit scoring, TP and FN values are more important than FP. 
 
 ![](images/screen7.PNG/)
 
